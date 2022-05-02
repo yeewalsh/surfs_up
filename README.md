@@ -1,4 +1,4 @@
-# Surfs Up1
+# Surfs Up!
 Using Jupyter notebook, SQLalchemy, Pandas, Python, and Matplotlib to summarize temperature readings and compare Oahu temperatures in the months of June and December. 
 
 ## Overview
